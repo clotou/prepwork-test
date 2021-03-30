@@ -1,0 +1,58 @@
+.card {
+	position: relative;
+	left: 50%;
+    transform: translateX(-50%);
+	height: 500px;
+	width: 320px;
+	box-shadow: 1px 1px 3px #ffefcf;
+}
+
+
+
+.card-item{
+	position: absolute;
+    height: 300px;
+    width: 300px;
+    color: white;
+    background-size: cover;
+    margin-top: 3px;
+    margin-left: 10px;
+}
+
+
+.card-user {
+	border: black;
+    position: absolute;
+	bottom: 10px;
+	right: 10px;
+	
+}
+
+.card-category {
+	position: absolute;
+	top: 5px;
+	left: 15px;
+	color: white;
+}
+
+.card-title {
+	position: absolute;
+	color: white;
+	font-weight: lighter;
+	margin-left: 15px;
+	margin-top: 275px;
+
+}
+.logo {
+	position: absolute;
+	left: 13px;
+	margin-top: 300px;
+}
+
+.card-description {
+	position: absolute;
+	bottom: 0px;
+	left: 10px;
+	text-align: left;
+
+}

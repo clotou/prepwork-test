@@ -1,0 +1,10 @@
+.dropdown-menu a {
+	color: black !important;
+	text-decoration: none !important;
+	padding-left: 10px !important;
+	font-weight: lighter !important;
+}
+
+.dropdown-menu a:hover {
+	color: grey;
+}

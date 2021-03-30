@@ -1,0 +1,15 @@
+h2 {
+	padding-top: 50px;
+	padding-bottom: 20px;
+}
+
+#button-like {
+	text-align: center;
+	color: white;
+	height: 60px;
+	border-radius: 50%;
+	width: 60px;
+	background-color: #3B5998;
+	padding-top: 15px;
+	padding-right: 7px;
+}

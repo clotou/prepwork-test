@@ -1,0 +1,26 @@
+.btn-medium {
+	color: grey;
+	font-weight: lighter;
+	border: 1px solid grey;
+	padding: 10px 15px;
+	border-radius: 50px;
+	font-family: "Open Sans", "Helvetica", "sans-serif";
+    margin: 30px;
+    padding-right: 700px;
+    clear: both;
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.banner-content {
+	background: #eeebdd;
+	padding: 30px;
+	display: flex;
+	align-items: center;
+}
+
+i{
+	justify-content: space-between;
+	flex: 0 0 10px;
+}
